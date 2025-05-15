@@ -1,19 +1,42 @@
-# Apuntes de GitHub
+# 📚 Apuntes y Ejercicios de GitHub y Jupyter Notebook
 
-Este repositorio contiene mis apuntes organizados por temas. Cada carpeta contiene apuntes y documentos relacionados con el tema correspondiente.
-
-## Estructura del repositorio
-
-### Tema_1
-  - `Tema1.docx`: Apuntes sobre GitHub.
-
-### Tema_2
-  - `Introducción_a_Jupyter_Notebook`: Documentos y ejemplos de Jupyter Notebook.
+Bienvenido a mi repositorio de estudio, donde guardo y organizo mis apuntes y ejercicios prácticos sobre GitHub, Jupyter Notebook y Python. Aquí encontrarás los documentos agrupados por temas y subcarpetas para facilitar su consulta.
 
 ---
 
-## Descripción de los apuntes
+## 📂 Estructura del Repositorio
 
-En **Tema_1** encontrarás todo lo relacionado con el uso básico de GitHub y cómo gestionar tus repositorios. 
+### 🔹 Tema 1: Introducción a GitHub
+- 📄 **Apuntes de GitHub**  
+  Subcarpeta con documentación y apuntes básicos sobre el uso de GitHub, cómo crear repositorios, subir archivos y organizar contenido.
 
-En **Tema_2** encontrarás una introducción a **Jupyter Notebook**, incluyendo ejemplos prácticos y algunos ejercicios.
+---
+
+### 🔹 Tema 2: Jupyter Notebook
+- 📄 **Apuntes de Jupyter Notebook**  
+  Subcarpeta con teoría y notas útiles sobre cómo trabajar con Jupyter, comandos importantes y buenas prácticas.
+  
+- 📁 **Cuaderno de Ejercicios de Jupyter**  
+  Subcarpeta con más de 50 ejercicios prácticos desarrollados en Jupyter Notebook, organizados y comentados.
+
+---
+
+### 🔹 Tema 3: Python Básico
+- 📄 **Apuntes de Python**  
+  Subcarpeta con una guía rápida para comenzar a programar en Python: sintaxis básica, estructuras de control, listas, funciones, etc.
+
+---
+
+## 🚀 Próximamente
+Se irán añadiendo nuevos temas y materiales con ejemplos, enlaces y documentación práctica sobre herramientas útiles para el desarrollo y análisis de datos.
+
+---
+
+## 📌 Objetivo del Repositorio
+Organizar y documentar el proceso de aprendizaje en tecnologías como GitHub, Python y Jupyter Notebook. Ideal para repasar, compartir o seguir avanzando en proyectos futuros.
+
+---
+
+**🧑‍💻 Autor:** Santi  
+**📅 Última actualización:** Mayo 2025
+
